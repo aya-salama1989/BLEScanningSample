@@ -4,6 +4,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="allow_location_detection">You must allow location detection to be able to sacn for BLE devices</string>
     <string name="found_ble_device">Found BLE device</string>
-    <string name="found_ble_devices" >Found BLE devices</string>
+    <string name="found_ble_devices">Found BLE devices</string>
     <string name="ble_device_scan_failed">"Scan Failed with error code "</string>
 </resources>
